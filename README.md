@@ -1,1 +1,7 @@
-# courses-udacity-developing-android-apps
+# [Courses] [Udacity] Developing Android Apps #
+
+TODO
+
+## Useful links ##
+
+[Udacity course](https://classroom.udacity.com/courses/ud853)
