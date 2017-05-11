@@ -59,6 +59,11 @@ and:
 * Linear Layout
 * Relative Layout
 
+## HTTP Requests on Android ##
+
+* HttpUrlConnection
+* HttpClient
+
 | Prev page | Next page |
 | --------- | --------: |
 | [README](README.md) |  |
