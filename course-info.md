@@ -30,6 +30,21 @@ More in-depth information can be found [here](https://developer.android.com/tool
          tools:layout="@layout/fragment_main" android:layout_width="match_parent"
          android:layout_height="match_parent" />
 
+## Android Software Stack and Gradle ##
+
+The flow is:
+
+* Android Project
+* Gradle (Build)
+* Gradle (APK)
+
+    * Byte Code
+    * Resources
+    * Manifest
+
+* JarSigner (Sign)
+* ADB (Install on Device)
+
 | Prev page | Next page |
 | --------- | --------: |
 | [README](README.md) |  |
