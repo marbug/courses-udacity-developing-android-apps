@@ -45,6 +45,12 @@ The flow is:
 * JarSigner (Sign)
 * ADB (Install on Device)
 
+## Layouts ##
+
+* LinearLayout
+* RelativeLayout
+* GridLayout
+
 | Prev page | Next page |
 | --------- | --------: |
 | [README](README.md) |  |
