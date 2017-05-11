@@ -47,9 +47,17 @@ The flow is:
 
 ## Layouts ##
 
+There are:
+
 * LinearLayout
 * RelativeLayout
 * GridLayout
+
+and:
+
+* Frame Layout
+* Linear Layout
+* Relative Layout
 
 | Prev page | Next page |
 | --------- | --------: |
