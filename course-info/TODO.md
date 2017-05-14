@@ -63,3 +63,67 @@ You can find out [more about the Android build system here](http://tools.android
 If you're a hardcore command-line guru, be sure to read up on the [Android Debug Bridge (ADB)](http://developer.android.com/tools/help/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training) and other [command line tools](http://developer.android.com/tools/index.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=tools&utm_campaign=training). You can also find out more about the Android Virtual Machines [ART](https://source.android.com/devices/tech/dalvik/art.html) and [DART](http://source.android.com/devices/tech/dalvik/) to see how the Android Runtime works under the covers.
 
 You may need to run chmod +x on gradlew before you can run it. See this [link](https://developer.android.com/sdk/installing/studio-build.html#buildCmd) for more detailed instructions.
+
+### 15. Setup Your Device ###
+
+Setting up USB debugging on some operating systems can be a little more complicated than Katherine demonstrated - check out this guide on [Using Hardware Devices](http://developer.android.com/tools/device.html#setting-up?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=dev_mode&utm_campaign=training) for debugging to learn more if you run into trouble.
+
+### 16. Launching On A Device ###
+
+#### Command Line Tool Commands ####
+
+The usage of these commands is entirely optional. The result is that same as clicking the Run button in Android Studio.
+
+* chmod +x gradlew - This command only needs to be run once and is used to give gradlew the correct execute permissions.
+* ./gradlew assembleDebug - This command will compile the code.
+* adb install -r app/build/outputs/apk/app-debug-unaligned.apk - This command will install the APK. With the -r flag it will overwrite any prior installed versions. Note if you have more than one device, you will need to use the -s flag right after adb to specify the serial number of the intended device.
+* adb shell am start -n com.example.android.sunshine.app/com.example.android.sunshine.app.MainActivity - This command will actually run the app.
+
+If you're all about the command-line, check out these links to find out more about using the [Android Debug Bridge (ADB)](http://developer.android.com/tools/help/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training) and [building with Gradle](http://developer.android.com/sdk/installing/studio-build.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=studio_gradle&utm_campaign=training).
+
+### 19. Create A User Interface ###
+
+The [Activity](http://developer.android.com/guide/components/activities.html) class that Dan's extending with MainActivity is the screen, or window, that's used to display a visual user interface to our users.
+
+### 20. UI Element Quiz ###
+
+As Dan says, the Visual Layout Editor is a powerful tool for creating layouts. You can find out more tips on using it in this guide to [using the Layout Editor](https://developer.android.com/sdk/installing/studio-layout.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_visual_layout_editor&utm_campaign=training).
+
+### 24. Responsive Design Thinking ###
+
+To learn more about Responsive Design in Android, check out some of Google's Android Design Advocates as they discuss various elements of Android Design in this episode of [Android Design in Action](https://www.youtube.com/watch?v=zHirwKGEfoE?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_ADIA&utm_campaign=training).
+
+You can find lots more Android design tips from the full [Android Design in Action playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF&utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_ADIA_playlist&utm_campaign=training).
+
+### 25. Layout Managers ###
+
+* [Linear Layout](http://developer.android.com/guide/topics/ui/layout/linear.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_linear&utm_campaign=training)
+* [Relative Layout](http://developer.android.com/guide/topics/ui/layout/relative.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_relative&utm_campaign=training)
+
+As Dan mentioned, each of these Layout Managers extends the [View Group](http://developer.android.com/reference/android/view/ViewGroup.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_viewgroup&utm_campaign=training) class.
+
+### 26. ScrollViews Vs ListViews ###
+
+* [Scroll View](http://developer.android.com/reference/android/widget/ScrollView.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_scrollview&utm_campaign=training)
+* [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_listview&utm_campaign=training)
+
+We'll explore the ListView in more detail throughout the course, but if you really want to understand some of what's possible with this control, you should watch [The World of ListView](https://www.youtube.com/watch?v=wDBM6wVEO70?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_listview_youtube&utm_campaign=training) from Google I/O 2010.
+
+### 28. Add ListView To Layout ###
+
+These are the base [layout parameters](http://developer.android.com/reference/android/view/ViewGroup.LayoutParams.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_layoutparams&utm_campaign=training), which should be applied to every View in your layouts.
+
+### 30. Adapters ###
+
+* [Adapters](http://developer.android.com/reference/android/widget/Adapter.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_adapters&utm_campaign=training)
+* [AdapterViews](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
+
+We'll learn more about [building layouts with an adapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_adapterview&utm_campaign=training) as we continue creating Sunshine.
+
+### 31. Initialize The Adapter ###
+
+Katherine is using an [ArrayAdapter](http://developer.android.com/reference/android/widget/ArrayAdapter.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_array_adapter&utm_campaign=training).
+
+You can see an [example of an ArrayAdapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#FillingTheLayout) in the Android documentation.
+
+This is the first time you've encountered the magic R files. It's not really magic. Check out this [guide](http://developer.android.com/guide/topics/resources/accessing-resources.html) for more info!
