@@ -238,3 +238,9 @@ If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3sc
 ### 10. Launch Detail Activity ###
 
 [Example of an explicit intent](http://developer.android.com/guide/components/intents-filters.html#ExampleExplicit)
+
+### 13. Settings UX ###
+
+Follow along with Katherine in [the documentation](https://developer.android.com/design/patterns/settings.html).
+
+UX = User Experience
