@@ -199,3 +199,7 @@ Check the [Android documentation](http://developer.android.com/reference/android
 ### 25. Identify Desired JSON Attributes ###
 
 You can view the JSON in a more readable format by pasting it into the [JSON Formatter and Validator](http://jsonformatter.curiousconcept.com/).
+
+### 26. Parse Out The Max Temp ###
+
+[JSONObject in Android](http://developer.android.com/reference/org/json/JSONObject.html)
