@@ -215,3 +215,13 @@ Hint: Make sure FetchWeatherTask is not defined as a static class. If you're won
 ### 33. Review Material for Lesson 2 ###
 
 If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3schools.com/json/).
+
+## Lesson 3 ##
+
+### 4. List Item Click Listener ###
+
+[ListView Documentation](http://developer.android.com/reference/android/widget/ListView.html)
+
+### 5. ItemClickListener And Toast ###
+
+[Toast documentation](http://developer.android.com/guide/topics/ui/notifiers/toasts.html#Basics)
