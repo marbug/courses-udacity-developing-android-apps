@@ -195,3 +195,7 @@ Check the [Android documentation](http://developer.android.com/reference/android
 ### 24. Postal Code Param ###
 
 [UriBuilder](http://developer.android.com/reference/android/net/Uri.Builder.html)
+
+### 25. Identify Desired JSON Attributes ###
+
+You can view the JSON in a more readable format by pasting it into the [JSON Formatter and Validator](http://jsonformatter.curiousconcept.com/).
