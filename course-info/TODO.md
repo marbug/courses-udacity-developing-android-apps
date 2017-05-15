@@ -249,3 +249,11 @@ UX = User Experience
 
 [Settings Developer Guide](http://developer.android.com/guide/topics/ui/settings.html)
 [SharedPreferences](http://developer.android.com/reference/android/content/SharedPreferences.html)
+
+### 16. Launch SettingsActivity ###
+
+The reason the action bar doesn't appear is that the current version of [appcompat](https://developer.android.com/tools/support-library/features.html#v7) - which is a library that provides backwards compatibility - styles our application. Appcompat only adds an action bar to activities that derive from [ActionBarActivity](https://developer.android.com/reference/android/support/v7/app/ActionBarActivity.html) and SettingsActivity does not subclass ActionBarActivity. SettingsActivity is a subclass of [PreferenceActivity](https://developer.android.com/reference/android/preference/PreferenceActivity.html).
+
+So why are we using PreferenceActivity? It’s an easy way to get the preference UI working on Gingerbread devices.
+
+Fear not though, in Lesson 5 when we discuss theming and styling, we will add an action bar to our activity.
