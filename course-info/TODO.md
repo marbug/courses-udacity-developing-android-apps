@@ -179,3 +179,15 @@ Don't want to guess? Check the [AsyncTask documentation](http://developer.androi
 
 * [Guide to Options Menu](http://developer.android.com/guide/topics/ui/menus.html#RespondingOptionsMenu)
 * [Fragment.setHasOptionsMenu(boolean) method](http://developer.android.com/reference/android/app/Fragment.html#setHasOptionsMenu(boolean))
+
+### 21. Permissions in Android Marshmallow ###
+
+For more information on permissions, visit [this documentation](https://developer.android.com/preview/features/runtime-permissions.html).
+
+### 22. Permissions In The Manifest ###
+
+See the [security section](http://developer.android.com/guide/topics/security/permissions.html) of the Android Developers site.
+
+### 23. Adding Internet Permission ###
+
+Check the [Android documentation](http://developer.android.com/reference/android/Manifest.permission.html)!
