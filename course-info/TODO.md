@@ -131,3 +131,51 @@ This is the first time you've encountered the magic R files. It's not really mag
 ### 32. Finding Views FindViewById() ###
 
 Because we're creating all our layouts in XML, it's important to understand how you can get a reference to those Views within your code. That means you'll be making a lot of calls to [findViewById](http://developer.android.com/reference/android/view/View.html#findViewById(int)?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_findviewbyid&utm_campaign=training).
+
+## Lesson 2 ##
+
+### 2. Review Data Provided By Open Weather Map ###
+
+* [API key](https://home.openweathermap.org/api_keys) - Sign In
+* [API calls examples](http://openweathermap.org/current)
+
+### 4. Find The Query We Want ###
+
+Katherine's solution: [http://api.openweathermap.org/data/2.5/forecast/daily?q=94043&mode=json&units=metric&cnt=7](http://api.openweathermap.org/data/2.5/forecast/daily?q=94043&mode=json&units=metric&cnt=7)
+
+### 6. HTTP Requests ###
+
+[Connecting to the Network training guide](http://developer.android.com/training/basics/network-ops/connecting.html)
+
+Check out this [blog post](http://android-developers.blogspot.com/2011/09/androids-http-clients.html) on the Android HTTP clients!
+
+### 7. Logcat ###
+
+You can use Monitor or, if you're a command line guru, [ADB logcat](http://developer.android.com/tools/help/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training) to view logs.
+
+[Reading and Writing Logs](http://developer.android.com/tools/debugging/debugging-log.html)
+
+### 9. OpenWeatherMap API Keys ###
+
+To learn more about permissions and privacy, check out [this documentation](https://developer.android.com/preview/features/runtime-permissions.html).
+
+### 11. Main Thread Vs Background Thread ###
+
+Check out the Google Android guide on threading [here](http://developer.android.com/guide/components/processes-and-threads.html#Threads).
+
+### 12. Which Thread For AsyncTask ###
+
+Don't want to guess? Check the [AsyncTask documentation](http://developer.android.com/reference/android/os/AsyncTask.html)!
+
+### 17. Menu Buttons ###
+
+[Menu training guide](http://developer.android.com/guide/topics/ui/menus.html)
+
+### 18. Refresh Button ###
+
+[Declaring string resources](http://developer.android.com/guide/topics/resources/string-resource.html#String)
+
+### 19. Refresh Button Behavior ###
+
+* [Guide to Options Menu](http://developer.android.com/guide/topics/ui/menus.html#RespondingOptionsMenu)
+* [Fragment.setHasOptionsMenu(boolean) method](http://developer.android.com/reference/android/app/Fragment.html#setHasOptionsMenu(boolean))
