@@ -244,3 +244,8 @@ If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3sc
 Follow along with Katherine in [the documentation](https://developer.android.com/design/patterns/settings.html).
 
 UX = User Experience
+
+### 14. Preferences ###
+
+[Settings Developer Guide](http://developer.android.com/guide/topics/ui/settings.html)
+[SharedPreferences](http://developer.android.com/reference/android/content/SharedPreferences.html)
