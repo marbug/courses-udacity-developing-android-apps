@@ -127,3 +127,7 @@ Katherine is using an [ArrayAdapter](http://developer.android.com/reference/andr
 You can see an [example of an ArrayAdapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#FillingTheLayout) in the Android documentation.
 
 This is the first time you've encountered the magic R files. It's not really magic. Check out this [guide](http://developer.android.com/guide/topics/resources/accessing-resources.html) for more info!
+
+### 32. Finding Views FindViewById() ###
+
+Because we're creating all our layouts in XML, it's important to understand how you can get a reference to those Views within your code. That means you'll be making a lot of calls to [findViewById](http://developer.android.com/reference/android/view/View.html#findViewById(int)?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_findviewbyid&utm_campaign=training).
