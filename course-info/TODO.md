@@ -191,3 +191,7 @@ See the [security section](http://developer.android.com/guide/topics/security/pe
 ### 23. Adding Internet Permission ###
 
 Check the [Android documentation](http://developer.android.com/reference/android/Manifest.permission.html)!
+
+### 24. Postal Code Param ###
+
+[UriBuilder](http://developer.android.com/reference/android/net/Uri.Builder.html)
