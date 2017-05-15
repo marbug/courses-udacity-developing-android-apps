@@ -257,3 +257,9 @@ The reason the action bar doesn't appear is that the current version of [appcomp
 So why are we using PreferenceActivity? It’s an easy way to get the preference UI working on Gingerbread devices.
 
 Fear not though, in Lesson 5 when we discuss theming and styling, we will add an action bar to our activity.
+
+### 17. Location Setting XML ###
+
+Follow along with Katherine in the [settings documentation](https://developer.android.com/guide/topics/ui/settings.html#DefiningPrefs).
+
+[Defining Preferences in XML](https://developer.android.com/guide/topics/ui/settings.html#DefiningPrefs)
