@@ -225,3 +225,8 @@ If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3sc
 ### 5. ItemClickListener And Toast ###
 
 [Toast documentation](http://developer.android.com/guide/topics/ui/notifiers/toasts.html#Basics)
+
+### 6. Create New Activity ###
+
+[More info on parent activity](http://developer.android.com/training/basics/firstapp/starting-activity.html#CreateActivity)
+[http://developer.android.com/design/patterns/navigation.html](http://developer.android.com/design/patterns/navigation.html)
