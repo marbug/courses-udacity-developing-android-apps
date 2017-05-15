@@ -207,3 +207,7 @@ You can view the JSON in a more readable format by pasting it into the [JSON For
 ### 28. Update The Adapter ###
 
 Hint: Make sure FetchWeatherTask is not defined as a static class. If you're wondering why, see this link on [nested classes in Java](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html).
+
+### 29. Source Code For ArrayAdapter ###
+
+[ArrayAdapter source code in Android framework](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/widget/ArrayAdapter.java)
