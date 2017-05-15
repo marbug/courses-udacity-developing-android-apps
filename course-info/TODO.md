@@ -230,3 +230,11 @@ If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3sc
 
 [More info on parent activity](http://developer.android.com/training/basics/firstapp/starting-activity.html#CreateActivity)
 [http://developer.android.com/design/patterns/navigation.html](http://developer.android.com/design/patterns/navigation.html)
+
+### 9. Intents As Envelopes ###
+
+[Common Intents page](http://developer.android.com/guide/components/intents-common.html)
+
+### 10. Launch Detail Activity ###
+
+[Example of an explicit intent](http://developer.android.com/guide/components/intents-filters.html#ExampleExplicit)
