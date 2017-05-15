@@ -211,3 +211,7 @@ Hint: Make sure FetchWeatherTask is not defined as a static class. If you're won
 ### 29. Source Code For ArrayAdapter ###
 
 [ArrayAdapter source code in Android framework](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/widget/ArrayAdapter.java)
+
+### 33. Review Material for Lesson 2 ###
+
+If you’re unfamiliar with JSON, take a look at [this tutorial](http://www.w3schools.com/json/).
