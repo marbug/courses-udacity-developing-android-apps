@@ -263,3 +263,8 @@ Fear not though, in Lesson 5 when we discuss theming and styling, we will add an
 Follow along with Katherine in the [settings documentation](https://developer.android.com/guide/topics/ui/settings.html#DefiningPrefs).
 
 [Defining Preferences in XML](https://developer.android.com/guide/topics/ui/settings.html#DefiningPrefs)
+
+### 21. Temperature Units Setting ###
+
+[Preference Documentation](http://developer.android.com/reference/android/preference/Preference.html)
+[Documentation on String Arrays](http://developer.android.com/guide/topics/resources/string-resource.html#StringArray)
