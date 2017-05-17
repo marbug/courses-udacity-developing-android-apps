@@ -418,3 +418,17 @@ Be sure to review the rubric thoroughly before you get started!
 You can find a diagram of the Android Activity Life Cycle [here](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android_Activity_LifeCyle.png).
 
 Read more about it on the [Android Developers site](http://developer.android.com/training/basics/activity-lifecycle/starting.html).
+
+### 8. What To Do In OnPause/OnStop ###
+
+Some examples of listeners or updates you should disconnect or stop when onPause or onStop are received:
+
+* Sensor Listeners
+* Location Updates
+* Dynamic Broadcast Receivers
+* Game Physics Engine
+
+After onPause app is still visible, so do not stop drawing your UI.
+
+### 12. Optional SQLite Tutorial ###
+
