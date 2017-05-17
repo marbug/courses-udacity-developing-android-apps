@@ -283,3 +283,7 @@ The activity within the Maps app included:
     </intent-filter>
 
 This could be used in own app: Android will check intent filters of every installed app for the appropriate scheme.
+
+### 26. Share Intent ###
+
+For more information on ShareActionProviders, see the documentation [here](http://developer.android.com/training/sharing/shareaction.html).
