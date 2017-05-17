@@ -272,3 +272,14 @@ Follow along with Katherine in the [settings documentation](https://developer.an
 ### 24. Add Map Location Intent ###
 
 See [Common Intents](https://developer.android.com/guide/components/intents-common.html) for examples of the map intent.
+
+### 25. Intent Resolution ###
+
+The activity within the Maps app included:
+
+    <intent-filter>
+      <action:name="android.intent.action.VIEW" />
+      <data android:scheme="geo" />
+    </intent-filter>
+
+This could be used in own app: Android will check intent filters of every installed app for the appropriate scheme.
