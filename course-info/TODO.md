@@ -325,3 +325,6 @@ The biggest difference between manifest and dynamic receivers is when they're tr
 | -------------- | -------- | ------- |
 | App Running    |     +    |    +    |
 | App Terminated |     +    |    -    |
+
+[BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver.html)
+[Monitoring Battery](https://developer.android.com/training/monitoring-device-state/battery-monitoring.html)
