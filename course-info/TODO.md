@@ -389,3 +389,32 @@ If you'd like to make your app's UI beautiful, we also suggest reviewing this ma
 #### Implementation Guide ####
 
 For step-by-step support, we've provided details on how to approach each task in this [Implementation Guide](https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true).
+
+### 3. Popular Movies App Rubric ###
+
+#### Project Rubric ####
+
+Assess your project using this rubric.
+
+Be sure to review the rubric thoroughly before you get started!
+
+## Lesson 5 ##
+
+### 3. The Android Activity Lifecycle ###
+
+* onCreate
+* [created]
+* onStart
+* [visible]
+* onResume
+* [active]
+* onPause
+* [focus is lost - paused] - could be moved to onResume
+* onStop
+* [stopped] - can be moved via onRestart to onStart
+* onDestroy
+* [destroyed] - can be moved to onCreate
+
+You can find a diagram of the Android Activity Life Cycle [here](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android_Activity_LifeCyle.png).
+
+Read more about it on the [Android Developers site](http://developer.android.com/training/basics/activity-lifecycle/starting.html).
