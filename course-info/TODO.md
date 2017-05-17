@@ -287,3 +287,41 @@ This could be used in own app: Android will check intent filters of every instal
 ### 26. Share Intent ###
 
 For more information on ShareActionProviders, see the documentation [here](http://developer.android.com/training/sharing/shareaction.html).
+
+### 27. Broadcast Intents ###
+
+Examples: device is charging or that it's just finished rebooting.
+To do that ourselves, we use the [SendBroadcast](https://developer.android.com/reference/android/content/Context.html) method.
+
+### 28. Intent Filters ###
+
+The receiver itself is pretty simple:
+
+    public class MyReceiver extends BroadcastReceiver  {
+
+      @Override
+      public void onReceive(Context context, Intent intent) {
+        // handle received intent
+      }
+    }
+
+To have your receiver start listening for broadcasts, you need to register it either through an entry in your manifest like this:
+
+    <receiver android:name=".MyReceiver">
+      <intent-filter>
+        <action android:name="com.myapp.NEW_LIFEFORM" />
+      </intent-filter>
+    </receiver>
+
+or dynamically within other application component:
+
+    IntentFilter intentFilter = new IntentFilter("com.myapp.NEW_LIFEFORM");
+
+    registerReceiver(myReceiver, intentFilter);
+
+The biggest difference between manifest and dynamic receivers is when they're triggered:
+
+|                | Manifest | Dynamic |
+| -------------- | -------- | ------- |
+| App Running    |     +    |    +    |
+| App Terminated |     +    |    -    |
