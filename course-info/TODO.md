@@ -268,3 +268,7 @@ Follow along with Katherine in the [settings documentation](https://developer.an
 
 [Preference Documentation](http://developer.android.com/reference/android/preference/Preference.html)
 [Documentation on String Arrays](http://developer.android.com/guide/topics/resources/string-resource.html#StringArray)
+
+### 24. Add Map Location Intent ###
+
+See [Common Intents](https://developer.android.com/guide/components/intents-common.html) for examples of the map intent.
