@@ -328,3 +328,7 @@ The biggest difference between manifest and dynamic receivers is when they're tr
 
 [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver.html)
 [Monitoring Battery](https://developer.android.com/training/monitoring-device-state/battery-monitoring.html)
+
+### 30. Android Distribution Platform ###
+
+[Core App Quality Guidelines](http://developer.android.com/distribute/essentials/quality/core.html)
