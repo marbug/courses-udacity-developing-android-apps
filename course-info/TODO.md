@@ -565,3 +565,8 @@ Delete the weather table by using the [DROP TABLE command](http://www.tutorialsp
 These are just the basics. Feel free to play around with SQLite some more. See this link: [http://www.sqlite.org/cli.html](http://www.sqlite.org/cli.html)
 
 When you’re done, enter .quit to exit.
+
+### 14. Storing Data In Android: Conclusion ###
+
+[Data storage guide on the developer.android.com](http://developer.android.com/guide/topics/data/index.html)
+
