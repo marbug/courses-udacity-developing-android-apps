@@ -570,3 +570,14 @@ When you’re done, enter .quit to exit.
 
 [Data storage guide on the developer.android.com](http://developer.android.com/guide/topics/data/index.html)
 
+
+### 17. Intro To WeatherContract ###
+
+[Contacts Contract](http://developer.android.com/reference/android/provider/ContactsContract.html)
+
+### 20. Two Tables ###
+
+[Foreign Keys ](http://www.w3schools.com/sql/sql_foreignkey.asp)
+[Inner Join](http://www.tutorialspoint.com/sqlite/sqlite_using_joins.htm)
+
+Hint: _id is the primary key of the table and should be set to [autoincrement](http://www.tutorialspoint.com/sqlite/sqlite_using_autoincrement.htm)
