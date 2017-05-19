@@ -605,3 +605,11 @@ See [this page](http://developer.android.com/sdk/installing/studio-tips.html) fo
 ### 26. SQLiteOpenHelper OnUpgrade() ###
 
 [ALTER TABLE](https://www.sqlite.org/lang_altertable.html)
+
+### 27. Read/Write From A Database ###
+
+[SQLite Database documentation](http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html)
+
+### 28. Test Read/Write From Location Table ###
+
+[cursor.getColumnIndex()](http://developer.android.com/reference/android/database/Cursor.html#getColumnIndex(java.lang.String))
