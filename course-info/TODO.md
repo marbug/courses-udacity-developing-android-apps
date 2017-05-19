@@ -581,3 +581,11 @@ When you’re done, enter .quit to exit.
 [Inner Join](http://www.tutorialspoint.com/sqlite/sqlite_using_joins.htm)
 
 Hint: _id is the primary key of the table and should be set to [autoincrement](http://www.tutorialspoint.com/sqlite/sqlite_using_autoincrement.htm)
+
+### 22. Define Constants In Contract ###
+
+Some background on [BaseColumns](http://developer.android.com/reference/android/provider/BaseColumns.html).
+
+Inner joins are well documented [here](http://en.wikipedia.org/wiki/Join_(SQL)#Inner_join).
+
+We're going to cover [Content Providers](http://developer.android.com/guide/topics/providers/content-providers.html) thoroughly later in Lesson 4. We're going to cover [Content Providers](http://developer.android.com/guide/topics/providers/content-providers.html) thoroughly later in Lesson 4.
