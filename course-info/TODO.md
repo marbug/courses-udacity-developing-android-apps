@@ -595,3 +595,13 @@ We're going to cover [Content Providers](http://developer.android.com/guide/topi
 [SQLiteOpenHelper](http://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper.html)
 [JUnit testing](http://www.tutorialspoint.com/junit/junit_quick_guide.htm)
 [Android testing](http://developer.android.com/tools/testing/testing_android.html)
+
+### 25. Create Sunshine Location Database ###
+
+See [this page](http://developer.android.com/sdk/installing/studio-tips.html) for more keyboard shortcuts.
+
+[ON CONFLICT clause](https://www.sqlite.org/lang_conflict.html)
+
+### 26. SQLiteOpenHelper OnUpgrade() ###
+
+[ALTER TABLE](https://www.sqlite.org/lang_altertable.html)
