@@ -589,3 +589,9 @@ Some background on [BaseColumns](http://developer.android.com/reference/android/
 Inner joins are well documented [here](http://en.wikipedia.org/wiki/Join_(SQL)#Inner_join).
 
 We're going to cover [Content Providers](http://developer.android.com/guide/topics/providers/content-providers.html) thoroughly later in Lesson 4. We're going to cover [Content Providers](http://developer.android.com/guide/topics/providers/content-providers.html) thoroughly later in Lesson 4.
+
+### 23. SQLiteOpenHelper And Sunshine Database ###
+
+[SQLiteOpenHelper](http://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper.html)
+[JUnit testing](http://www.tutorialspoint.com/junit/junit_quick_guide.htm)
+[Android testing](http://developer.android.com/tools/testing/testing_android.html)
