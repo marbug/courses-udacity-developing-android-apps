@@ -613,3 +613,15 @@ See [this page](http://developer.android.com/sdk/installing/studio-tips.html) fo
 ### 28. Test Read/Write From Location Table ###
 
 [cursor.getColumnIndex()](http://developer.android.com/reference/android/database/Cursor.html#getColumnIndex(java.lang.String))
+
+## Lesson 6 ##
+
+### 2. Create A Content Provider ###
+
+If you're new to ContentProviders, check out our [gnarlicious background lesson](https://www.udacity.com/course/ud258).
+
+### 3. Get the Content Provider Code ###
+
+#### What is a Content Provider? ####
+
+Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.com/courses/ud258/lessons/3372188753/concepts/34096686680923). If you're not sure what a content provider is or why you would use one, please take this short mini lesson and exercise before continuing in the course. The exercise will take you through an example of grabbing data from the [UserDictionary](http://developer.android.com/reference/android/provider/UserDictionary.html) content provider and displaying it in a list.
