@@ -625,3 +625,7 @@ If you're new to ContentProviders, check out our [gnarlicious background lesson]
 #### What is a Content Provider? ####
 
 Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.com/courses/ud258/lessons/3372188753/concepts/34096686680923). If you're not sure what a content provider is or why you would use one, please take this short mini lesson and exercise before continuing in the course. The exercise will take you through an example of grabbing data from the [UserDictionary](http://developer.android.com/reference/android/provider/UserDictionary.html) content provider and displaying it in a list.
+
+### 5. Add A Weather W/Location UriBuilder ###
+
+[Documentation on UriBuilder](http://developer.android.com/reference/android/net/Uri.Builder.html)
