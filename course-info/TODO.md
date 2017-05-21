@@ -633,3 +633,8 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 ### 7. Write The UriMatcher ###
 
 [Documentation on UriMatcher](http://developer.android.com/reference/android/content/UriMatcher.html)
+
+### 8. Register The Content Provider ###
+
+[Documentation on provider](http://developer.android.com/guide/topics/manifest/provider-element.html)
+[ContentProvider basics](http://developer.android.com/guide/topics/providers/content-provider-basics.html#ClientProvider)
