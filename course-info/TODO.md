@@ -629,3 +629,7 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 ### 5. Add A Weather W/Location UriBuilder ###
 
 [Documentation on UriBuilder](http://developer.android.com/reference/android/net/Uri.Builder.html)
+
+### 7. Write The UriMatcher ###
+
+[Documentation on UriMatcher](http://developer.android.com/reference/android/content/UriMatcher.html)
