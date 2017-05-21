@@ -638,3 +638,7 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 
 [Documentation on provider](http://developer.android.com/guide/topics/manifest/provider-element.html)
 [ContentProvider basics](http://developer.android.com/guide/topics/providers/content-provider-basics.html#ClientProvider)
+
+### 12. Implement Weather And Location Queries ###
+
+[Documentation on parseId](http://developer.android.com/reference/android/content/ContentUris.html#parseId(android.net.Uri))
