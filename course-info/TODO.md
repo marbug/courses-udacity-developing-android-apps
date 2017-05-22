@@ -660,6 +660,14 @@ Android provides a number of [ContentProviders](http://developer.android.com/ref
 
 ## Lesson 8 ##
 
-### 1. Android Design Principles ###
+### 2. Android Design Principles ###
 
 For some guidance on how to make slick and beautiful apps, check out [Material Design](https://developer.android.com/design/material/index.html). Material Design is a design language incorporated in the Android Lollipop release. The [Material Design specifications](http://www.google.com/design/spec/material-design/introduction.html#) is a great place to start.
+
+### 3. Enjoyable Apps ###
+
+If you are enrolled in the Android Nanodegree, you can post your responses in the Android Cafe [here](https://discussions.udacity.com/t/inspiring-android-apps/19666). If you are taking the paid version of this course, please post your response in the coaches lounge [here](https://discussions.udacity.com/t/what-makes-your-favorite-app-s-enjoyable-to-use/26445). If you are taking the free version of the course, feel free to post in the student forum [here](https://discussions.udacity.com/t/what-makes-your-favorite-apps-enjoyable-to-use/31726).
+
+### 4. Recap On Views And ViewGroups ###
+
+[Link to Android Design Building Blocks](http://developer.android.com/design/building-blocks/index.html)
