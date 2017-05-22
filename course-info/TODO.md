@@ -648,3 +648,8 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 ### 1. Loaders Are Awesome ###
 
 [AsyncTaskLoader](http://developer.android.com/reference/android/content/AsyncTaskLoader.html) is a **Loader** that uses an **AsyncTask** behind the scenes to do its work.
+
+### 7. Leveraging Loaders ###
+
+[Documentation on loaders](http://developer.android.com/guide/components/loaders.html)
+[Documentation on CursorLoader](http://developer.android.com/reference/android/content/CursorLoader.html)
