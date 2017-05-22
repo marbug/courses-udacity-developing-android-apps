@@ -657,3 +657,9 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 ### 14. 3rd Party Content Providers ###
 
 Android provides a number of [ContentProviders](http://developer.android.com/reference/android/provider/package-summary.html) natively to interact with common types of data such as the photos or audio media. For your project, if you choose to use any of the native content provides, you'll likely use at most the [Calendar Provider](http://developer.android.com/guide/topics/providers/calendar-provider.html) and the [Contacts Provider](http://developer.android.com/guide/topics/providers/contacts-provider.html).
+
+## Lesson 8 ##
+
+### 1. Android Design Principles ###
+
+For some guidance on how to make slick and beautiful apps, check out [Material Design](https://developer.android.com/design/material/index.html). Material Design is a design language incorporated in the Android Lollipop release. The [Material Design specifications](http://www.google.com/design/spec/material-design/introduction.html#) is a great place to start.
