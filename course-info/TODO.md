@@ -675,3 +675,9 @@ If you are enrolled in the Android Nanodegree, you can post your responses in th
 ### 5. Building List Item ###
 
 You should use Layout Weight and can read about it [here](http://developer.android.com/guide/topics/ui/layout/linear.html#Weight).
+
+### 9. Using The ViewHolder Pattern ###
+
+Learn more about View Holder pattern [here](http://developer.android.com/training/improving-layouts/smooth-scrolling.html).
+
+I found [this link](http://developer.android.com/training/contacts-provider/display-contact-badge.html#ListView) (under “Define the custom list adapter”) to be helpful.
