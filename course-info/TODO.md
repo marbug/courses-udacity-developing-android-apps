@@ -681,3 +681,11 @@ You should use Layout Weight and can read about it [here](http://developer.andro
 Learn more about View Holder pattern [here](http://developer.android.com/training/improving-layouts/smooth-scrolling.html).
 
 I found [this link](http://developer.android.com/training/contacts-provider/display-contact-badge.html#ListView) (under “Define the custom list adapter”) to be helpful.
+
+### 10. Formatting Strings ###
+
+Remember to import the xliff namespace in the strings.xml file as well.
+
+[xliff tags](https://developer.android.com/distribute/tools/localization-checklist.html)
+[Formatting strings](http://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling)
+[context.getString() method](http://developer.android.com/reference/android/content/Context.html#getString)
