@@ -671,3 +671,7 @@ If you are enrolled in the Android Nanodegree, you can post your responses in th
 ### 4. Recap On Views And ViewGroups ###
 
 [Link to Android Design Building Blocks](http://developer.android.com/design/building-blocks/index.html)
+
+### 5. Building List Item ###
+
+You should use Layout Weight and can read about it [here](http://developer.android.com/guide/topics/ui/layout/linear.html#Weight).
