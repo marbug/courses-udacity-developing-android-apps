@@ -642,3 +642,9 @@ Dan just mentioned the [Content Provider mini lesson](https://classroom.udacity.
 ### 12. Implement Weather And Location Queries ###
 
 [Documentation on parseId](http://developer.android.com/reference/android/content/ContentUris.html#parseId(android.net.Uri))
+
+## Lesson 7 ##
+
+### 1. Loaders Are Awesome ###
+
+[AsyncTaskLoader](http://developer.android.com/reference/android/content/AsyncTaskLoader.html) is a **Loader** that uses an **AsyncTask** behind the scenes to do its work.
