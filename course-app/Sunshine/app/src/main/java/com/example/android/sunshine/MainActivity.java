@@ -3,33 +3,64 @@ package com.example.android.sunshine;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
     private final String LOG_TAG = MainActivity.class.getSimpleName();
+
+    /*
+        TODO: uncomment after crash fix
+
     private final String FORECASTFRAGMENT_TAG = "FFTAG";
 
     private String mLocation;
+    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        /*
+            TODO: uncomment after crash fix
+
         mLocation = Utility.getPreferredLocation(this);
+        */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        /*
+            TODO: comment after crash fix [start]
+        */
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+            }
+        });
+        /*
+            TODO: comment after crash fix [end]
+        */
+
+        /*
+            TODO: uncomment after crash fix
+
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new ForecastFragment(), FORECASTFRAGMENT_TAG)
                     .commit();
         }
+        */
     }
 
     @Override
@@ -80,6 +111,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    /*
+        TODO: uncomment after crash fix
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -93,4 +127,5 @@ public class MainActivity extends AppCompatActivity {
             mLocation = location;
         }
     }
+    */
 }

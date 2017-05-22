@@ -141,17 +141,33 @@ public class ForecastFragment extends Fragment implements LoaderManager.LoaderCa
         super.onActivityCreated(savedInstanceState);
     }
 
+    /*
+        TODO: uncomment after crash fix
+
     // since we read the location when we create the loader, all we need to do is restart things
     void onLocationChanged( ) {
         updateWeather();
         getLoaderManager().restartLoader(FORECAST_LOADER, null, this);
     }
+    */
 
     private void updateWeather() {
         FetchWeatherTask weatherTask = new FetchWeatherTask(getActivity());
         String location = Utility.getPreferredLocation(getActivity());
         weatherTask.execute(location);
     }
+
+    /*
+        TODO: comment after crash fix [start]
+    */
+    @Override
+    public void onStart() {
+        super.onStart();
+        updateWeather();
+    }
+    /*
+        TODO: comment after crash fix [end]
+    */
 
     @Override
     public Loader<Cursor> onCreateLoader(int i, Bundle bundle) {
