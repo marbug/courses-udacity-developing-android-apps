@@ -16,51 +16,35 @@ public class MainActivity extends AppCompatActivity {
 
     private final String LOG_TAG = MainActivity.class.getSimpleName();
 
-    /*
-        TODO: uncomment after crash fix
+    private static final String DETAILFRAGMENT_TAG = "DFTAG";
 
-    private final String FORECASTFRAGMENT_TAG = "FFTAG";
-
+    private boolean mTwoPane;
     private String mLocation;
-    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        /*
-            TODO: uncomment after crash fix
+        super.onCreate(savedInstanceState);
 
         mLocation = Utility.getPreferredLocation(this);
-        */
-        super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-
-        /*
-            TODO: comment after crash fix [start]
-        */
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+        if (findViewById(R.id.weather_detail_container) != null) {
+            // The detail container view will be present only in the large-screen layouts
+            // (res/layout-sw600dp). If this view is present, then the activity should be
+            // in two-pane mode.
+            mTwoPane = true;
+            // In two-pane mode, show the detail view in this activity by
+            // adding or replacing the detail fragment using a
+            // fragment transaction.
+            if (savedInstanceState == null) {
+                getSupportFragmentManager().beginTransaction()
+                        .replace(R.id.weather_detail_container, new DetailFragment(), DETAILFRAGMENT_TAG)
+                        .commit();
             }
-        });
-        /*
-            TODO: comment after crash fix [end]
-        */
-
-        /*
-            TODO: uncomment after crash fix
-
-        if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction()
-                    .add(R.id.container, new ForecastFragment(), FORECASTFRAGMENT_TAG)
-                    .commit();
+        } else {
+            mTwoPane = false;
         }
-        */
     }
 
     @Override
@@ -111,21 +95,17 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    /*
-        TODO: uncomment after crash fix
-
     @Override
     protected void onResume() {
         super.onResume();
         String location = Utility.getPreferredLocation( this );
         // update the location in our second pane using the fragment manager
         if (location != null && !location.equals(mLocation)) {
-            ForecastFragment ff = (ForecastFragment)getSupportFragmentManager().findFragmentByTag(FORECASTFRAGMENT_TAG);
+            ForecastFragment ff = (ForecastFragment)getSupportFragmentManager().findFragmentById(R.id.fragment_forecast);
             if ( null != ff ) {
                 ff.onLocationChanged();
             }
             mLocation = location;
         }
     }
-    */
 }

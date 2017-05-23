@@ -782,3 +782,7 @@ Resources:
 ### 20. Tablet UX Mocks ###
 
 [Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)
+
+### 24. Try The Fragment Manager ###
+
+Check out the [documentation](http://developer.android.com/guide/components/fragments.html) on Fragments.
