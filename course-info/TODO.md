@@ -728,3 +728,11 @@ Hierarchy Viewer only works by default with phones running a developer version o
 
 2. You can run Hierarchy Viewer on an emulated phone.
 3. Or you can use use the [ViewServer](https://github.com/romainguy/ViewServer) library to get Hierarchy Viewer working on a non-developer, pre Jellybean phone.
+
+### 14. Responsive Design ###
+
+Resources:
+
+* [Tablet App Quality](http://developer.android.com/distribute/essentials/quality/tablets.html)
+* Android Design Guide: [Multi-Pane Layouts](https://developer.android.com/design/patterns/multi-pane-layouts.html)
+* Android Design in Action: [Responsive Design (video)](https://www.youtube.com/watch?v=zHirwKGEfoE)
