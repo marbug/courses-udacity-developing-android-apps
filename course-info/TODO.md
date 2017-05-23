@@ -842,3 +842,7 @@ Helpful Resources:
 [Accessibility Developer Checklist](http://developer.android.com/guide/topics/ui/accessibility/checklist.html)
 Android Design Guide: [Accessibility](http://developer.android.com/design/patterns/accessibility.html)
 [Accessibility Testing Checklist](http://developer.android.com/tools/testing/testing_accessibility.html)
+
+### 44. Create Your Own View ###
+
+Check out the [Canvas and Drawables](http://developer.android.com/guide/topics/graphics/2d-graphics.html) guide and the [Custom Drawing](http://developer.android.com/training/custom-views/custom-drawing.html) guide.
