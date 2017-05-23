@@ -759,3 +759,7 @@ Resources:
 | XXXHDPI    | ~ 640 |
 
 * Use density-independent pixels (dip or dp)
+
+### 15. Resource Folder Qualifiers ###
+
+[Supporting Multiple Screens](http://developer.android.com/guide/practices/screens_support.html)
