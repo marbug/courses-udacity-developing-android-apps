@@ -768,3 +768,9 @@ Resources:
 
 [Supporting Multiple Screens](http://developer.android.com/guide/practices/screens_support.html)
 [Metrics and Grids](http://developer.android.com/design/style/metrics-grids.html)
+
+### 18. Images For Different Densities ###
+
+[Devices and Displays](https://developer.android.com/design/style/devices-displays.html)
+
+[Converting dp to pixel](http://developer.android.com/guide/practices/screens_support.html#dips-pels)
