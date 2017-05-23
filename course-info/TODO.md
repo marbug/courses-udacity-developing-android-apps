@@ -760,6 +760,11 @@ Resources:
 
 * Use density-independent pixels (dip or dp)
 
-### 15. Resource Folder Qualifiers ###
+### 16. Resource Folder Qualifiers ###
 
 [Supporting Multiple Screens](http://developer.android.com/guide/practices/screens_support.html)
+
+### 17. Screen Density Size ###
+
+[Supporting Multiple Screens](http://developer.android.com/guide/practices/screens_support.html)
+[Metrics and Grids](http://developer.android.com/design/style/metrics-grids.html)
