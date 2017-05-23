@@ -846,3 +846,7 @@ Android Design Guide: [Accessibility](http://developer.android.com/design/patter
 ### 44. Create Your Own View ###
 
 Check out the [Canvas and Drawables](http://developer.android.com/guide/topics/graphics/2d-graphics.html) guide and the [Custom Drawing](http://developer.android.com/training/custom-views/custom-drawing.html) guide.
+
+### 45. Custom View Accessiblity ###
+
+If you want to develop a Custom View you can reference the documentation on [Creating Custom Views](https://developer.android.com/training/custom-views/index.html) and, more specifically, the documentation on [Designing For Accessibility](https://developer.android.com/training/custom-views/create-view.html#accessibility).
