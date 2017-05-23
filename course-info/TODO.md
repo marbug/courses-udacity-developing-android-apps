@@ -792,3 +792,7 @@ Check out the [documentation](http://developer.android.com/guide/components/frag
 [Read about ListView choice mode](http://developer.android.com/reference/android/widget/AbsListView.html#attr_android:choiceMode)
 [Read about styles](http://developer.android.com/guide/topics/ui/themes.html)
 [State list drawable](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
+
+### 33. Wide Detail Fragment ###
+
+[Layout aliasing](http://developer.android.com/training/multiscreen/screensizes.html#TaskUseAliasFilters)
