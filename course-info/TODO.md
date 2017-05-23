@@ -826,3 +826,12 @@ The reason the action bar doesn't appear is that the current version of [appcomp
 So why are we using PreferenceActivity? It’s an easy way to get the preference UI working on Gingerbread devices.
 
 By explicitly themeing SettingActivity with a theme derived from DarkActionBar, we are able to add back the Action Bar.
+
+### 39. Implementing Redlines On Your Own ###
+
+Helpful Resources:
+
+[Typography](http://developer.android.com/design/style/typography.html)
+[Text appearance](https://plus.google.com/108967384991768947849/posts/gQuBtnuk6iG)
+[Color](http://developer.android.com/guide/topics/resources/more-resources.html#Color)
+[Layout gravity](http://stackoverflow.com/questions/3482742/android-gravity-and-layout-gravity)
