@@ -796,3 +796,9 @@ Check out the [documentation](http://developer.android.com/guide/components/frag
 ### 33. Wide Detail Fragment ###
 
 [Layout aliasing](http://developer.android.com/training/multiscreen/screensizes.html#TaskUseAliasFilters)
+
+### 35. Visual Mocks ###
+
+[Link to Visual Mocks with Redlines for Sunshine](https://www.udacity.com/wiki/ud853/design_assets) (PDF and individual PNGs)
+
+[Android Design Guide: Metrics and Grids](https://developer.android.com/design/style/metrics-grids.html)
