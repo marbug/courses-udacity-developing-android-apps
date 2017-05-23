@@ -812,3 +812,17 @@ General resources on the Action Bar:
 [Android Design Guide: Action Bar](http://developer.android.com/design/patterns/actionbar.html)
 [Developer Guide on Action Bar](http://developer.android.com/guide/topics/ui/actionbar.html)
 [Using a Logo Instead of an Icon](http://developer.android.com/guide/topics/ui/actionbar.html#Logo)
+
+### 37. Settings Bar ###
+
+#### Adding the Settings Bar ####
+
+One more quick tweak. We are going to add an update to make the action bar appear in settings. The three themes are **AppTheme**, **ForecastTheme** and **SettingsTheme** and we will have a v21 and v14 version.
+
+#### If you're wondering why no Action Bar... ####
+
+The reason the action bar doesn't appear is that the current version of [appcompat](https://developer.android.com/tools/support-library/features.html#v7) - which is a library that provides backwards compatibility - styles our application. Appcompat only adds an action bar to activities that derive from [ActionBarActivity](https://developer.android.com/reference/android/support/v7/app/ActionBarActivity.html) and SettingsActivity does not subclass ActionBarActivity. SettingsActivity is a subclass of [PreferenceActivity](https://developer.android.com/reference/android/preference/PreferenceActivity.html).
+
+So why are we using PreferenceActivity? It’s an easy way to get the preference UI working on Gingerbread devices.
+
+By explicitly themeing SettingActivity with a theme derived from DarkActionBar, we are able to add back the Action Bar.
