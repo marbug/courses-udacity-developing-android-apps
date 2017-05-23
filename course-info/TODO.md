@@ -786,3 +786,9 @@ Resources:
 ### 24. Try The Fragment Manager ###
 
 Check out the [documentation](http://developer.android.com/guide/components/fragments.html) on Fragments.
+
+### 30. Activated List Item Style ###
+
+[Read about ListView choice mode](http://developer.android.com/reference/android/widget/AbsListView.html#attr_android:choiceMode)
+[Read about styles](http://developer.android.com/guide/topics/ui/themes.html)
+[State list drawable](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
