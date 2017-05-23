@@ -855,3 +855,10 @@ If you want to develop a Custom View you can reference the documentation on [Cre
 
 [Motion Event Docs](http://developer.android.com/reference/android/view/MotionEvent.html)
 [Custom Views](http://developer.android.com/training/custom-views/index.html)
+
+## Lesson 9 ##
+
+### 5. Using Services ###
+
+[IntentService](http://developer.android.com/reference/android/app/IntentService.html)
+[Guide on Services](http://developer.android.com/guide/components/services.html)
