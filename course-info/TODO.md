@@ -835,3 +835,10 @@ Helpful Resources:
 [Text appearance](https://plus.google.com/108967384991768947849/posts/gQuBtnuk6iG)
 [Color](http://developer.android.com/guide/topics/resources/more-resources.html#Color)
 [Layout gravity](http://stackoverflow.com/questions/3482742/android-gravity-and-layout-gravity)
+
+### 41. Coding Task On Accessibility ###
+
+[Documentation on Accessibility](http://developer.android.com/guide/topics/ui/accessibility/index.html)
+[Accessibility Developer Checklist](http://developer.android.com/guide/topics/ui/accessibility/checklist.html)
+Android Design Guide: [Accessibility](http://developer.android.com/design/patterns/accessibility.html)
+[Accessibility Testing Checklist](http://developer.android.com/tools/testing/testing_accessibility.html)
