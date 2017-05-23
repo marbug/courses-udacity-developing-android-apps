@@ -802,3 +802,13 @@ Check out the [documentation](http://developer.android.com/guide/components/frag
 [Link to Visual Mocks with Redlines for Sunshine](https://www.udacity.com/wiki/ud853/design_assets) (PDF and individual PNGs)
 
 [Android Design Guide: Metrics and Grids](https://developer.android.com/design/style/metrics-grids.html)
+
+### 36. Action Bar ###
+
+Guide on [Styling the Action Bar](https://developer.android.com/training/basics/actionbar/styling.html)
+Documentation for [displayOptions](http://developer.android.com/reference/android/R.attr.html#displayOptions) attribute
+
+General resources on the Action Bar:
+[Android Design Guide: Action Bar](http://developer.android.com/design/patterns/actionbar.html)
+[Developer Guide on Action Bar](http://developer.android.com/guide/topics/ui/actionbar.html)
+[Using a Logo Instead of an Icon](http://developer.android.com/guide/topics/ui/actionbar.html#Logo)
