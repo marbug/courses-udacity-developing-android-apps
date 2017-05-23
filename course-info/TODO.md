@@ -850,3 +850,8 @@ Check out the [Canvas and Drawables](http://developer.android.com/guide/topics/g
 ### 45. Custom View Accessiblity ###
 
 If you want to develop a Custom View you can reference the documentation on [Creating Custom Views](https://developer.android.com/training/custom-views/index.html) and, more specifically, the documentation on [Designing For Accessibility](https://developer.android.com/training/custom-views/create-view.html#accessibility).
+
+### 46. Input Events In Custom Views ###
+
+[Motion Event Docs](http://developer.android.com/reference/android/view/MotionEvent.html)
+[Custom Views](http://developer.android.com/training/custom-views/index.html)
