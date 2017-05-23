@@ -742,3 +742,20 @@ Resources:
 [Configuration Examples](http://developer.android.com/guide/practices/screens_support.html#ConfigurationExamples)
 
 [Convert dips to pixels](http://developer.android.com/guide/practices/screens_support.html#dips-pels)
+
+| By Size     |          |
+| ----------- | -------- |
+| Phones      | < 600 dp |
+| 7" tablets  | > 600 dp |
+| 10" tablets | > 720 dp |
+
+| By density |       |
+| ---------- | ----- |
+| LDPI       | ~ 120 |
+| MDPI       | ~ 160 |
+| HDPI       | ~ 240 |
+| XHDPI      | ~ 320 |
+| XXHDPI     | ~ 480 |
+| XXXHDPI    | ~ 640 |
+
+* Use density-independent pixels (dip or dp)
