@@ -774,3 +774,7 @@ Resources:
 [Devices and Displays](https://developer.android.com/design/style/devices-displays.html)
 
 [Converting dp to pixel](http://developer.android.com/guide/practices/screens_support.html#dips-pels)
+
+### 19. Adding Images To The App ###
+
+[Application element in AndroidManifest.xml](http://developer.android.com/guide/topics/manifest/application-element.html)
