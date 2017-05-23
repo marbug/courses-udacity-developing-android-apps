@@ -689,3 +689,42 @@ Remember to import the xliff namespace in the strings.xml file as well.
 [xliff tags](https://developer.android.com/distribute/tools/localization-checklist.html)
 [Formatting strings](http://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling)
 [context.getString() method](http://developer.android.com/reference/android/content/Context.html#getString)
+
+### 12. Optimizing Layouts ###
+
+1. Keep your layout shallow and wide, rather than deep and narrow.
+
+I.e.
+
+    * item1
+        * item2
+        * item3
+        * item4
+
+is better than
+
+    * item1
+        * item2
+          * item3
+          * item4
+
+2. Your activities' full hierarchy should never have more than 10 nested Views or 80 Views in total.
+
+### 13. Hierarchy Viewer ###
+
+[Optimizing your UI](http://developer.android.com/tools/debugging/debugging-ui.html)
+
+[Hierarchy Viewer](http://developer.android.com/tools/help/hierarchy-viewer.html)
+
+[Lint](http://developer.android.com/tools/help/lint.html)
+
+Note: Hierarchy Viewer is in **sdk/tools/hierarchyviewer**. Alternativly you can open it by going to the Android Device Monitor and then clicking the Hierarchy Viewer button.
+
+Hierarchy Viewer only works by default with phones running a developer version of the Android OS. If your phone is not a developer phone, you have a few options:
+
+1. If you have a phone running Jellybean or higher, you can simply add the environment variable ANDROID_HVPROTO with the value ddm:
+
+    ANDROID_HVPROTO=ddm
+
+2. You can run Hierarchy Viewer on an emulated phone.
+3. Or you can use use the [ViewServer](https://github.com/romainguy/ViewServer) library to get Hierarchy Viewer working on a non-developer, pre Jellybean phone.
