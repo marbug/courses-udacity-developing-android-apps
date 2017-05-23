@@ -736,3 +736,9 @@ Resources:
 * [Tablet App Quality](http://developer.android.com/distribute/essentials/quality/tablets.html)
 * Android Design Guide: [Multi-Pane Layouts](https://developer.android.com/design/patterns/multi-pane-layouts.html)
 * Android Design in Action: [Responsive Design (video)](https://www.youtube.com/watch?v=zHirwKGEfoE)
+
+### 15. Splitting Devices Into Buckets ###
+
+[Configuration Examples](http://developer.android.com/guide/practices/screens_support.html#ConfigurationExamples)
+
+[Convert dips to pixels](http://developer.android.com/guide/practices/screens_support.html#dips-pels)
