@@ -778,3 +778,7 @@ Resources:
 ### 19. Adding Images To The App ###
 
 [Application element in AndroidManifest.xml](http://developer.android.com/guide/topics/manifest/application-element.html)
+
+### 20. Tablet UX Mocks ###
+
+[Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)
