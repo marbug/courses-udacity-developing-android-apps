@@ -930,3 +930,15 @@ Lastly, you will take the entire end-to end-user interaction flow, including wha
 
 * You will build a fully featured application that looks and feels natural on the latest Android operating system (Lollipop, as of May 2015).
 * You will optimize the UI experience for both phones and tablets.
+
+### 2. Project Instructions ###
+
+#### How Will I Complete this Project? ####
+
+##### Supporting Course Materials #####
+
+You should have the skills you need to complete this project after completing this course, focusing on Lessons 4 and 5.
+
+##### Implementation Guide #####
+
+Just like in Stage 1, we've come up with a set of milestones that will help structure your development and ensure that you reach the final product smoothly. These milestones are listed below, and you can find detailed instructions in the [Stage 2 Implementation Guide](https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true#h.7sxo8jefdfll).
