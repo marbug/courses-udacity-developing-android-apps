@@ -892,3 +892,7 @@ Related classes:
 [NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html)
 [PendingIntent](http://developer.android.com/reference/android/app/PendingIntent.html)
 [TaskStackBuilder](http://developer.android.com/reference/android/support/v4/app/TaskStackBuilder.html)
+
+### 19. Delete Old Weather Data ###
+
+Use the [Calendar class](http://developer.android.com/reference/java/util/Calendar.html) to get the current time and then calculate the date for yesterday.
