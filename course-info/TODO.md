@@ -877,3 +877,18 @@ If you want to develop a Custom View you can reference the documentation on [Cre
 ### 11. Introducing SyncAdapters ###
 
 Read more about [Sync Adapters](http://developer.android.com/training/sync-adapters/index.html).
+
+### 15. Google Cloud Messaging ###
+
+[Developer guide for Google Cloud Messaging](http://developer.android.com/google/gcm/index.html)
+
+### 16. Notifications ###
+
+Check out the [Notifications](http://developer.android.com/guide/topics/ui/notifiers/notifications.html) tutorial for a helpful example.
+
+Related classes:
+
+[NotificationCompat.Builder](http://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html)
+[NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html)
+[PendingIntent](http://developer.android.com/reference/android/app/PendingIntent.html)
+[TaskStackBuilder](http://developer.android.com/reference/android/support/v4/app/TaskStackBuilder.html)
