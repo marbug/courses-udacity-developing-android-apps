@@ -873,3 +873,7 @@ If you want to develop a Custom View you can reference the documentation on [Cre
 
 [Transferring Data Without Draining the Battery](http://developer.android.com/training/efficient-downloads/index.html)
 [DevBytes: Efficient Data Transfers](https://www.youtube.com/watch?v=cSIB2pDvH3E&list=PLWz5rJ2EKKc-VJS9WQlj9xM_ygPopZ-Qd)
+
+### 11. Introducing SyncAdapters ###
+
+Read more about [Sync Adapters](http://developer.android.com/training/sync-adapters/index.html).
