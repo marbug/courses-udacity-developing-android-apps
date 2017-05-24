@@ -868,3 +868,8 @@ If you want to develop a Custom View you can reference the documentation on [Cre
 [Set a Repeating Alarm](https://developer.android.com/training/scheduling/alarms.html#set)
 [PendingIntent](http://developer.android.com/reference/android/app/PendingIntent.html)
 [BroadcastReceiver](http://developer.android.com/reference/android/content/BroadcastReceiver.html)
+
+### 10. Data Transfer Best Practices ###
+
+[Transferring Data Without Draining the Battery](http://developer.android.com/training/efficient-downloads/index.html)
+[DevBytes: Efficient Data Transfers](https://www.youtube.com/watch?v=cSIB2pDvH3E&list=PLWz5rJ2EKKc-VJS9WQlj9xM_ygPopZ-Qd)
