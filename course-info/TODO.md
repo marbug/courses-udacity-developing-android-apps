@@ -862,3 +862,9 @@ If you want to develop a Custom View you can reference the documentation on [Cre
 
 [IntentService](http://developer.android.com/reference/android/app/IntentService.html)
 [Guide on Services](http://developer.android.com/guide/components/services.html)
+
+### 6. Using Alarms ###
+
+[Set a Repeating Alarm](https://developer.android.com/training/scheduling/alarms.html#set)
+[PendingIntent](http://developer.android.com/reference/android/app/PendingIntent.html)
+[BroadcastReceiver](http://developer.android.com/reference/android/content/BroadcastReceiver.html)
