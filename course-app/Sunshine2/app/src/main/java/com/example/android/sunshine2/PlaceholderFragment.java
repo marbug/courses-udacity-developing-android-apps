@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.support.v4.app.Fragment;
 import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -42,6 +43,10 @@ public class PlaceholderFragment extends Fragment {
                 weekForecast);
 
         View rootView = inflater.inflate(R.layout.fragment_main, container, false);
+
+        ListView listView = (ListView) rootView.findViewById(R.id.listview_forecast);
+        listView.setAdapter(mForecastAdapter);
+
         return rootView;
     }
 
