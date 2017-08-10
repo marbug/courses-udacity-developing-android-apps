@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Sunshine2</string>
+    <string name="hello_world">Hello world! (PlaceholderFragment)</string>
 </resources>
