@@ -67,6 +67,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.2.2_show-data-in-detail-activity...sunshine2_v1.3.0_add-settings-activity)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.0_add-settings-activity%0Dsunshine2_v1.2.2_show-data-in-detail-activity?w=1#diff)
 
+## Run settings activity ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.0_add-settings-activity...sunshine2_v1.3.1_run-settings-activity)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.1_run-settings-activity%0Dsunshine2_v1.3.0_add-settings-activity?w=1#diff)
+
 ## TODO ##
 
 TODO
