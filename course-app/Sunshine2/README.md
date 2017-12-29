@@ -130,6 +130,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.0_add-db-files-and-tests...sunshine2_v1.4.1_create-database)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.1_create-database%0Dsunshine2_v1.4.0_add-db-files-and-tests?w=1#diff)
 
+## Test location table ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.1_create-database...sunshine2_v1.4.2_test-location-table)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.2_test-location-table%0Dsunshine2_v1.4.1_create-database?w=1#diff)
+
 ## TODO ##
 
 TODO
