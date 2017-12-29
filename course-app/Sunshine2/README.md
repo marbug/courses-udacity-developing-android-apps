@@ -116,6 +116,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.6_add-map-intent...sunshine2_v1.3.7_add-share-action)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.7_add-share-action%0Dsunshine2_v1.3.6_add-map-intent?w=1#diff)
 
+## Add db files and tests ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.7_add-share-action...sunshine2_v1.4.0_add-db-files-and-tests)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.0_add-db-files-and-tests%0Dsunshine2_v1.3.7_add-share-action?w=1#diff)
+
 ## TODO ##
 
 TODO
