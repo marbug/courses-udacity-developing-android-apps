@@ -102,6 +102,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.4_use-settings-on-start...sunshine2_v1.3.5_add-units-settings)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.5_add-units-settings%0Dsunshine2_v1.3.4_use-settings-on-start?w=1#diff)
 
+## Add map intent ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.5_add-units-settings...sunshine2_v1.3.6_add-map-intent)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.6_add-map-intent%0Dsunshine2_v1.3.5_add-units-settings?w=1#diff)
+
 ## TODO ##
 
 TODO
