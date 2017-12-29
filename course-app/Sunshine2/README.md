@@ -86,14 +86,14 @@ See changes on:
 See changes on:
 
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.2_add-settings-options...sunshine2_v1.3.3_use-location-from-settings)
-* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.3_use-location-from-settings%0Dsunshine2_v1.3.2_add-settings-options#diff?w=1#diff)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.3_use-location-from-settings%0Dsunshine2_v1.3.2_add-settings-options?w=1#diff)
 
 ## Use settings on start ##
 
 See changes on:
 
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.3_use-location-from-settings...sunshine2_v1.3.4_use-settings-on-start)
-* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.4_use-settings-on-start%0Dsunshine2_v1.3.3_use-location-from-settings#diff?w=1#diff)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.4_use-settings-on-start%0Dsunshine2_v1.3.3_use-location-from-settings?w=1#diff)
 
 ## TODO ##
 
