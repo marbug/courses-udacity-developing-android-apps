@@ -81,6 +81,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.1_run-settings-activity...sunshine2_v1.3.2_add-settings-options)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.2_add-settings-options%0Dsunshine2_v1.3.1_run-settings-activity?w=1#diff)
 
+## Use location from settings ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.2_add-settings-options...sunshine2_v1.3.3_use-location-from-settings)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.3.3_use-location-from-settings%0Dsunshine2_v1.3.2_add-settings-options#diff?w=1#diff)
+
 ## TODO ##
 
 TODO
