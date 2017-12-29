@@ -123,6 +123,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.3.7_add-share-action...sunshine2_v1.4.0_add-db-files-and-tests)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.0_add-db-files-and-tests%0Dsunshine2_v1.3.7_add-share-action?w=1#diff)
 
+## Create database ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.0_add-db-files-and-tests...sunshine2_v1.4.1_create-database)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.1_create-database%0Dsunshine2_v1.4.0_add-db-files-and-tests?w=1#diff)
+
 ## TODO ##
 
 TODO
