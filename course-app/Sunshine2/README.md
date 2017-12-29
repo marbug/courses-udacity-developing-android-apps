@@ -39,6 +39,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.1.1_parse-received-data...sunshine2_v1.1.2_show-received-data)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.1.2_show-received-data%0Dsunshine2_v1.1.1_parse-received-data?w=1#diff)
 
+## Add detail activity ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.1.2_show-received-data...sunshine2_v1.2.0_add-detail-activity)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.2.0_add-detail-activity%0Dsunshine2_v1.1.2_show-received-data?w=1#diff)
+
 ## TODO ##
 
 TODO
