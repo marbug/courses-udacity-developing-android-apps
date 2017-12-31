@@ -151,6 +151,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.3_test-weather-table...sunshine2_v1.4.4_add-content-provider)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.4_add-content-provider%0Dsunshine2_v1.4.3_test-weather-table?w=1#diff)
 
+## Register content provider ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.4_add-content-provider...sunshine2_v1.4.5_register-content-provider)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.5_register-content-provider%0Dsunshine2_v1.4.4_add-content-provider?w=1#diff)
+
 ## TODO ##
 
 TODO
