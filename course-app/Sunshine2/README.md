@@ -207,6 +207,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.1_fix-forecast-adapter...sunshine2_v1.5.2_use-another-layout-for-today)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.2_use-another-layout-for-today%0Dsunshine2_v1.5.1_fix-forecast-adapter?w=1#diff)
 
+## Use viewholder ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.2_use-another-layout-for-today...sunshine2_v1.5.3_use-viewholder)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.3_use-viewholder%0Dsunshine2_v1.5.2_use-another-layout-for-today?w=1#diff)
+
 ## TODO ##
 
 TODO
