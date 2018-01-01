@@ -179,6 +179,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.7_bulk-inserts...sunshine2_v1.4.8_use-loader)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.8_use-loader%0Dsunshine2_v1.4.7_bulk-inserts?w=1#diff)
 
+## Fix settings ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.8_use-loader...sunshine2_v1.4.9_fix-settings)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.9_fix-settings%0Dsunshine2_v1.4.8_use-loader?w=1#diff)
+
 ## TODO ##
 
 TODO
