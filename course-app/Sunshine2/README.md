@@ -193,6 +193,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.9_fix-settings...sunshine2_v1.5.0_add-mock-layout)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.0_add-mock-layout%0Dsunshine2_v1.4.9_fix-settings?w=1#diff)
 
+## Fix forecast adapter ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.0_add-mock-layout...sunshine2_v1.5.1_fix-forecast-adapter)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.1_fix-forecast-adapter%0Dsunshine2_v1.5.0_add-mock-layout?w=1#diff)
+
 ## TODO ##
 
 TODO
