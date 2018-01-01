@@ -186,6 +186,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.8_use-loader...sunshine2_v1.4.9_fix-settings)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.9_fix-settings%0Dsunshine2_v1.4.8_use-loader?w=1#diff)
 
+## Add mock layout ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.9_fix-settings...sunshine2_v1.5.0_add-mock-layout)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.0_add-mock-layout%0Dsunshine2_v1.4.9_fix-settings?w=1#diff)
+
 ## TODO ##
 
 TODO
