@@ -165,6 +165,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.5_register-content-provider...sunshine2_v1.4.6_use-content-provider)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.6_use-content-provider%0Dsunshine2_v1.4.5_register-content-provider?w=1#diff)
 
+## Bulk inserts ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.4.6_use-content-provider...sunshine2_v1.4.7_bulk-inserts)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.4.7_bulk-inserts%0Dsunshine2_v1.4.6_use-content-provider?w=1#diff)
+
 ## TODO ##
 
 TODO
