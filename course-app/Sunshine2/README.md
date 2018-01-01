@@ -214,6 +214,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.2_use-another-layout-for-today...sunshine2_v1.5.3_use-viewholder)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.3_use-viewholder%0Dsunshine2_v1.5.2_use-another-layout-for-today?w=1#diff)
 
+## Format strings ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.3_use-viewholder...sunshine2_v1.5.4_format-strings)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.4_format-strings%0Dsunshine2_v1.5.3_use-viewholder?w=1#diff)
+
 ## TODO ##
 
 TODO
