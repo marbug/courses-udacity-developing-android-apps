@@ -298,6 +298,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.14_other-redlines-i-e-fix-styles...sunshine2_v1.6.0_add-and-use-service)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.0_add-and-use-service%0Dsunshine2_v1.5.14_other-redlines-i-e-fix-styles?w=1#diff)
 
+## Use alarm ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.6.0_add-and-use-service...sunshine2_v1.6.1_use-alarm)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.1_use-alarm%0Dsunshine2_v1.6.0_add-and-use-service?w=1#diff)
+
 ## TODO ##
 
 TODO
