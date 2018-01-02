@@ -319,6 +319,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.6.2_use-sync-adapter...sunshine2_v1.6.3_use-notifications)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.3_use-notifications%0Dsunshine2_v1.6.2_use-sync-adapter?w=1#diff)
 
+## Use notification settings ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.6.3_use-notifications...sunshine2_v1.6.4_use-notifications-settings)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.4_use-notifications-settings%0Dsunshine2_v1.6.3_use-notifications?w=1#diff)
+
 ## TODO ##
 
 TODO
