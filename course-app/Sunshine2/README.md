@@ -277,6 +277,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.11_style-action-bar...sunshine2_v1.5.12_style-settings-bar)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.12_style-settings-bar%0Dsunshine2_v1.5.11_style-action-bar?w=1#diff)
 
+## Fix styles ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.12_style-settings-bar...sunshine2_v1.5.13_list-redlines-i-e-fix-styles)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.13_list-redlines-i-e-fix-styles%0Dsunshine2_v1.5.12_style-settings-bar?w=1#diff)
+
 ## TODO ##
 
 TODO
