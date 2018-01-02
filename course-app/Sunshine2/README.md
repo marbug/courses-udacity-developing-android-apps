@@ -256,6 +256,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.8_highlight-selected-item...sunshine2_v1.5.9_restore-scroll-position)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.9_restore-scroll-position%0Dsunshine2_v1.5.8_highlight-selected-item?w=1#diff)
 
+## Change today item for tablet ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.9_restore-scroll-position...sunshine2_v1.5.10_change-today-item-for-tablet)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.10_change-today-item-for-tablet%0Dsunshine2_v1.5.9_restore-scroll-position?w=1#diff)
+
 ## TODO ##
 
 TODO
