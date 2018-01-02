@@ -284,12 +284,19 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.12_style-settings-bar...sunshine2_v1.5.13_list-redlines-i-e-fix-styles)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.13_list-redlines-i-e-fix-styles%0Dsunshine2_v1.5.12_style-settings-bar?w=1#diff)
 
-## Fix styles ##
+## Fix other styles ##
 
 See changes on:
 
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.13_list-redlines-i-e-fix-styles...sunshine2_v1.5.14_other-redlines-i-e-fix-styles)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.14_other-redlines-i-e-fix-styles%0Dsunshine2_v1.5.13_list-redlines-i-e-fix-styles?w=1#diff)
+
+## Add and use service ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.14_other-redlines-i-e-fix-styles...sunshine2_v1.6.0_add-and-use-service)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.0_add-and-use-service%0Dsunshine2_v1.5.14_other-redlines-i-e-fix-styles?w=1#diff)
 
 ## TODO ##
 
