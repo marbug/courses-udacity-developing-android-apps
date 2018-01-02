@@ -242,6 +242,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.6_add-images...sunshine2_v1.5.7_add-and-use-two-planes)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.7_add-and-use-two-planes%0Dsunshine2_v1.5.6_add-images?w=1#diff)
 
+## Highlight selected item ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.7_add-and-use-two-planes...sunshine2_v1.5.8_highlight-selected-item)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.8_highlight-selected-item%0Dsunshine2_v1.5.7_add-and-use-two-planes?w=1#diff)
+
 ## TODO ##
 
 TODO
