@@ -221,6 +221,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.3_use-viewholder...sunshine2_v1.5.4_format-strings)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.4_format-strings%0Dsunshine2_v1.5.3_use-viewholder?w=1#diff)
 
+## Add complex layout for detail page ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.4_format-strings...sunshine2_v1.5.5_add-complex-layout-for-detail-page)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.5_add-complex-layout-for-detail-page%0Dsunshine2_v1.5.4_format-strings?w=1#diff)
+
 ## TODO ##
 
 TODO
