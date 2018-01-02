@@ -340,10 +340,6 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.6.5_delete-old-data...sunshine2_v1.6.6_update-map-intent)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.6.6_update-map-intent%0Dsunshine2_v1.6.5_delete-old-data?w=1#diff)
 
-## TODO ##
-
-TODO
-
 | Navigation               |
 | ------------------------ |
 | [Level up](../README.md) |
