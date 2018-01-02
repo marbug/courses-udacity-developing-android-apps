@@ -263,6 +263,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.9_restore-scroll-position...sunshine2_v1.5.10_change-today-item-for-tablet)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.10_change-today-item-for-tablet%0Dsunshine2_v1.5.9_restore-scroll-position?w=1#diff)
 
+## Style action bar ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.10_change-today-item-for-tablet...sunshine2_v1.5.11_style-action-bar)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.11_style-action-bar%0Dsunshine2_v1.5.10_change-today-item-for-tablet?w=1#diff)
+
 ## TODO ##
 
 TODO
