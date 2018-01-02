@@ -249,6 +249,13 @@ See changes on:
 * [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.7_add-and-use-two-planes...sunshine2_v1.5.8_highlight-selected-item)
 * [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.8_highlight-selected-item%0Dsunshine2_v1.5.7_add-and-use-two-planes?w=1#diff)
 
+## Restore scroll position ##
+
+See changes on:
+
+* [Github](https://github.com/marbug/courses-udacity-developing-android-apps/compare/sunshine2_v1.5.8_highlight-selected-item...sunshine2_v1.5.9_restore-scroll-position)
+* [Bitbucket](https://bitbucket.org/marbug/courses-udacity-developing-android-apps/branches/compare/sunshine2_v1.5.9_restore-scroll-position%0Dsunshine2_v1.5.8_highlight-selected-item?w=1#diff)
+
 ## TODO ##
 
 TODO
